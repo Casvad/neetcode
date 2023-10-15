@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="689c5b46-e45d-4616-951d-37423bc5cc80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/neetcode/dynamic/array/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neetcode/linked/list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neetcode/linked/list/Main_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neetcode/Main_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/neetcode/Main_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neetcode/Main_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/neetcode/dynamic/array/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +59,31 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neetcode.Main_1" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.neetcode.linked.list" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main_2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neetcode.dynamic.array.Main" />
       <module name="neetcode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.neetcode.*" />
+          <option name="PATTERN" value="com.neetcode.dynamic.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neetcode.linked.list.Main_2" />
+      <module name="neetcode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neetcode.dynamic.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_2" />
         <item itemvalue="Application.Main_1" />
       </list>
     </recent_temporary>
@@ -95,8 +115,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697407407962</updated>
-      <workItem from="1697407409485" duration="2324000" />
+      <workItem from="1697407409485" duration="3973000" />
     </task>
+    <task id="LOCAL-00001" summary="adding dynamic array">
+      <option name="closed" value="true" />
+      <created>1697409752362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697409752362</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="adding dynamic array" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding dynamic array" />
   </component>
 </project>

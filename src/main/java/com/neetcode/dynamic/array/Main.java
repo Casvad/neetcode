@@ -1,8 +1,6 @@
-package com.neetcode;
+package com.neetcode.dynamic.array;
 
-import com.neetcode.dynamic.array.DynamicArray;
-
-public class Main_1 {
+public class Main {
     public static void main(String[] args) {
 
         DynamicArray dynamicArray = new DynamicArray(5);
